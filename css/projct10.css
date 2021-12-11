@@ -1,0 +1,170 @@
+header{
+    background-color: darkgray;
+    height: 400px;
+
+}
+@media screen and (max-width:800px) {
+    header{
+
+        height: 1000px;
+        padding: 100px;
+    
+    }
+    nav a{
+        clear:both;
+        display: block;
+       
+        text-align: center;
+     
+    }
+    
+}
+.prsonal{
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 400px;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    float: left;
+}
+.name{
+    text-align: center;
+    width: 200px;
+    margin-left: 60%;
+    margin-top: 5%;
+    float: left;
+    margin-bottom: 10px;
+
+}
+.line{
+    border-bottom-style: solid;
+    border-bottom-color: darkorange ;
+    padding: 100px;
+}
+
+.content_box{
+    float: left;
+    margin-left: 200px ;
+}   
+.lift{
+    width: 30%;
+    background-color: rgb(195, 0, 255);
+    margin-right: 0px;
+    height: 550px;
+    float: left;
+}
+.skils{
+    background-color:whitesmoke;
+    color: #000;
+}
+.lang{
+    font-size: x-large;
+    color: #000;
+}
+.right{
+    width: 67%;
+    background-color: rgb(186, 128, 240);
+    margin-right: 0px;
+    height: 550px;
+    float: right;
+}
+.Objective{
+    font-size: x-large;
+    color: #000;
+}
+.degree{
+    background-color: honeydew;
+}
+.degree{
+    font-size: x-large;
+    color: #000;  
+}
+nav{
+    background-color:rgb(255, 255, 255);
+    
+    font-size: xx-large;
+}
+nav a{
+    float: right;
+    text-decoration: none;
+    color: wheat;
+    padding: 20px;
+}
+nav a:hover{
+    background-color: black;
+    text-decoration: none;
+    color: whitesmoke;
+
+}.photo{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+   margin: 100px;
+}
+.photo2{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+
+}
+.photo3{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo1{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+
+}
+.photo4{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo5{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo6{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo7{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo8{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
+.photo9{
+    float: left; 
+     height: 10%;
+     width: 20%;
+    border-radius: 30%;
+    margin: 100px;
+}
